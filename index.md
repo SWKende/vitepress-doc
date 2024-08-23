@@ -6,6 +6,9 @@ hero:
   name: "My Awesome Project"
   text: "A VitePress Site"
   tagline: My great project tagline
+  image:
+    src: /home-icon.png
+    alt: 背景图
   actions:
     - theme: brand
       text: Markdown Examples
@@ -23,3 +26,7 @@ features:
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
+
+<DataPanel />
+
+<Confetti />
